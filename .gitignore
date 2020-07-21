@@ -1,0 +1,33 @@
+##
+## Global Setting
+##
+
+# Mac Finder layout
+.DS_Store
+
+# IPython/Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Python 2.x & 3.x bytecode cache
+*.pyc
+*__pycache__
+
+# tex-related files
+*.aux
+*.log
+*.dvi
+
+# test/temp file
+test*
+testfile*
+temp*
+tempfile*
+
+# tempolary backup file
+*.bkp
+
+# Directory for Large size files
+Large_files/
+
+
+
